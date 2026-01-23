@@ -12,9 +12,9 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Islombek-stack&theme=react-dark&hide_border=true"  width="450px" >
 
-🔥 Streak Stats
+<!-- 🔥 Streak Stats
 
-<img src="https://streak-stats.demolab.com/?user=Islombek-stack&theme=radical&hide_border=true" width="450px" >
+<img src="https://streak-stats.demolab.com/?user=Islombek-stack&theme=radical&hide_border=true" width="450px" > -->
 
 
 
