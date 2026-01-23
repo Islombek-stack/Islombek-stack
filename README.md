@@ -1,3 +1,32 @@
+👋 Hi, I'm Islombek!
+
+📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Islombek-stack&show_icons=true&theme=radical" width="100%" >
+
+💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islombek-stack&layout=compact&theme=radical" width="100%" >
+
+📊 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Islombek-stack&theme=react-dark&hide_border=true"  width="100%" >
+
+🔥 Streak Stats
+
+<img src="https://streak-stats.demolab.com/?user=Islombek-stack&theme=radical&hide_border=true" width="100%" >
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- <p>
 
 </p>         -->
