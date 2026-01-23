@@ -6,8 +6,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islombek-stack&layout=compact&theme=radical" width="450px" >
 
-📊 Activity Graph
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Islombek-stack&theme=react-dark&hide_border=true"  width="100%" >
 
 <!-- 🔥 Streak Stats
