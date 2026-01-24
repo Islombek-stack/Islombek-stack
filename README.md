@@ -15,7 +15,7 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Islombek-stack&show_icons=true&theme=radical" >
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islombek-stack&layout=compact&theme=radical" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islombek-stack&layout=compact&theme=radical" width="100%">
 </div>
 
 
