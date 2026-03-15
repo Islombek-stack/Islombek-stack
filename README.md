@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/followers/Islombek-stack" >
   <img src="https://img.shields.io/github/stars/Islombek-stack?style=social" >
   <hr>
-  <br> <br>
+  <br>
   <h2>🧿My favorite languages and tools</h2>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
