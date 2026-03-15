@@ -1,10 +1,11 @@
 
 <div>
+  <h1></h1>
   <img src="https://img.shields.io/github/followers/Islombek-stack" >
   <img src="https://img.shields.io/github/stars/Islombek-stack?style=social" >
   <hr>
-  <img src="https://github-readme-stats.vercel.app/api?username=Islombek-stack&show_icons=true" >
   <br> <br>
+  <h2>🧿My favorite languages and tools</h2>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> 
@@ -21,9 +22,11 @@
 <hr>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Islombek-stack&theme=react-dark&hide_border=true"  width="100%" >
 
-<!-- 🔥 Streak Stats
-
-<img src="https://streak-stats.demolab.com/?user=Islombek-stack&theme=radical&hide_border=true" width="450px" > -->
+<div class="">
+  <h2>🔥 Streak Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Islombek-stack&show_icons=true" >
+  <img src="https://streak-stats.demolab.com/?user=Islombek-stack&theme=react-dark&hide_border=true" >
+</div>
 
 
 
