@@ -23,7 +23,6 @@
 
 <div class="">
   <h2>🔥 Streak Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Islombek-stack&show_icons=true" >
   <img src="https://streak-stats.demolab.com/?user=Islombek-stack&theme=react-dark&hide_border=true" >
 </div>
 
